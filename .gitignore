@@ -1,0 +1,27 @@
+node_modules/
+vendor/bundle/
+.env
+.env.local
+.env.*.local
+
+# Rails
+/backend/tmp/
+/backend/log/
+/backend/storage/
+/backend/public/assets/
+
+# Angular
+/web/dist/
+/web/.angular/
+
+# React Native / Expo
+/mobile/.expo/
+/mobile/android/
+/mobile/ios/
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
